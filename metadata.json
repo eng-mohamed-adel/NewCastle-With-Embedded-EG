@@ -1,0 +1,5 @@
+{
+  "name": "Student Points Leaderboard",
+  "description": "A modern, interactive web dashboard for tracking and ranking student points with smooth animations and a futuristic design. It includes a feature to capture a snapshot of the current rankings.",
+  "requestFramePermissions": []
+}
